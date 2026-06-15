@@ -1,0 +1,22 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+# RStudio/session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Local logs
+log/
+
+# Raw downloaded data
+data/
+
+# Large processed Seurat objects
+outputs/*.rds
+
+# OS files
+.DS_Store
+Thumbs.db
