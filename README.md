@@ -4,6 +4,12 @@ This project analyzes the 10x Genomics PBMC3K single-cell RNA-seq dataset using 
 
 The final Shiny app allows users to explore annotated PBMC cell types, view 2D and 3D UMAP visualizations, examine gene expression patterns, review top marker genes, and understand key single-cell terminology through a built-in glossary.
 
+## Live Shiny App
+
+Explore the interactive app here:
+
+[PBMC3K Single-Cell RNA-seq Explorer](https://logan-mather.shinyapps.io/pbmc3k-single-cell-project/)
+
 ## Project Summary
 
 This analysis identifies major peripheral blood mononuclear cell populations from the PBMC3K dataset, including:
